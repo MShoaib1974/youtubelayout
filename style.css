@@ -1,0 +1,82 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .headerleft{
+        display: flex;
+        align-items: center;
+    }
+    
+    .headermiddle{
+    display: flex;
+    align-items: center;
+    }
+    
+    .headerright{
+        display: flex;
+        align-items: center;
+    }
+    
+    .logo{
+        width: 230px;
+    }
+    
+    .search{
+        width: 600px;
+    }
+    
+    .profile{
+        width: 250px;
+    }
+    
+    
+    section{
+        display: flex;
+        justify-content: space-between;
+        
+        
+     
+     }
+     
+     .sidebar {
+         display: flex;
+         flex-direction: column;
+         
+       }
+       
+       
+    .video {
+       display: flex;
+       height: 250px;
+    
+     }
+    
+     .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        row-gap: 20px;
+        column-gap: 20px;
+     }
+
+     
+      
+          
+        
+    
+            
+       
+    
+    
+      
+     
+    
+    
+    
+    
+    
+    
+    
